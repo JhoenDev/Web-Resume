@@ -1060,3 +1060,7 @@ flex-wrap: wrap;
 #contactsTitle h3 {
     width: fit-content;
 }
+
+.navbarTitles {
+    position: sticky;
+}
